@@ -11,11 +11,12 @@ export default [
             maxRetries: 15,
         },
         presence: {
-            status: "idle",
+            status: "invisible",
         },
         selfMute: true,
     },
 
 ];
+
 
 
