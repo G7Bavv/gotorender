@@ -1,9 +1,9 @@
 // status can be "online", "idle", "dnd", or "invisible" or "offline"
 export default [
     {
-        channelId: "1445580831954436236",
+        channelId: "1445720940469161984",
         serverId: "1440746839438655531",
-        token: process.env.token1,
+        token: "MTM1MDc5OTAwNzQ4NzYyNzI2NA.Gtyvw5.CiFcQIJmPbyyUY9Gmo226cL-9TVM6SHzYYsvAE",
         selfDeaf: true,
         autoReconnect: {
             enabled: true,
@@ -17,6 +17,7 @@ export default [
     },
 
 ];
+
 
 
 
